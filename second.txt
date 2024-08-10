@@ -1,0 +1,14 @@
+Это второй файл
+Текущая ветка: master
+
+Еще нет коммитов
+
+Изменения, которые будут включены в коммит:
+  (используйте «git rm --cached <файл>...», чтобы убрать из индекса)
+        новый файл:    first.txt
+
+julia@julichka:~/my_dir$ git commit -m 'первый файл'
+[master (корневой коммит) ce54f85] первый файл
+ 1 file changed, 4 insertions(+)
+ create mode 100644 first.txt
+ 
